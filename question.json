@@ -257,5 +257,75 @@
     "b": "It removes financial reporting",
     "c": "It avoids authorization",
     "answer": "a"
+  },
+  {
+    "question": "What is the primary objective of petty cash?",
+    "a": "To handle small, frequent payments efficiently",
+    "b": "To record investments",
+    "c": "To replace the main cash book",
+    "answer": "a"
+  },
+  {
+    "question": "What does replenishment of petty cash mean?",
+    "a": "Refunding the petty cashier with the amount spent",
+    "b": "Depositing profit into petty cash",
+    "c": "Removing unused funds",
+    "answer": "a"
+  },
+  {
+    "question": "What should be done if petty cash is lost or stolen?",
+    "a": "Report immediately and adjust records",
+    "b": "Ignore it",
+    "c": "Increase the float",
+    "answer": "a"
+  },
+  {
+    "question": "Who is responsible for verifying petty cash replenishments?",
+    "a": "The main cashier or accounts officer",
+    "b": "The petty cashier only",
+    "c": "External suppliers",
+    "answer": "a"
+  },
+  {
+    "question": "Why should petty cash vouchers be pre-numbered?",
+    "a": "To prevent fraud and ensure traceability",
+    "b": "To make them look nice",
+    "c": "To avoid signatures",
+    "answer": "a"
+  },
+  {
+    "question": "How can petty cash fraud be detected?",
+    "a": "By audits and reconciliations",
+    "b": "By ignoring vouchers",
+    "c": "By adding more float",
+    "answer": "a"
+  },
+  {
+    "question": "Why is authorization important in petty cash payments?",
+    "a": "To confirm expenses are legitimate and approved",
+    "b": "To reduce paperwork",
+    "c": "To increase float",
+    "answer": "a"
+  },
+  {
+    "question": "What is the effect of not replenishing petty cash on time?",
+    "a": "It disrupts operations and delays small payments",
+    "b": "It increases profits",
+    "c": "It improves reporting",
+    "answer": "a"
+  },
+  {
+    "question": "What is the role of supporting documents in petty cash?",
+    "a": "To provide evidence and justification for payments",
+    "b": "To increase float",
+    "c": "To reduce reconciliation",
+    "answer": "a"
+  },
+  {
+    "question": "How does the imprest system simplify reconciliation?",
+    "a": "Balance plus vouchers always equals imprest amount",
+    "b": "It removes the need for vouchers",
+    "c": "It ignores small transactions",
+    "answer": "a"
   }
 ]
