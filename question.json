@@ -4,21 +4,18 @@
     "a": "A system where all cash is spent at once",
     "b": "A system where a fixed amount of cash is given and replenished when spent",
     "c": "A system where only credit is used",
-    
   },
   {
     "question": "Why is the imprest system used?",
     "a": "To eliminate large transactions",
     "b": "To maintain control and accountability over small expenditures",
     "c": "To replace the general ledger",
-    
   },
   {
     "question": "What is a petty cash book?",
     "a": "A personal notebook for savings",
     "b": "A book used to record small cash transactions",
     "c": "The company’s main cash book",
-    
   },
   {
     "question": "What are analysis columns in a petty cash book?",
