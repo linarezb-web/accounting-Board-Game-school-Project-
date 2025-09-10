@@ -1,402 +1,177 @@
 [
-{
-    "question" : "What is operating system?",
-    "a": "Collection of programs that manages hardware resources",
-    "b": "Link to interface the hardware and application program",
-    "c": "System service provider to the application program",
-    "d": "All of the mentioned",
-    "answer": "d"
-},
-{
-    "question" : "To access the services of operating system, the interface is provided by the:",
-    "a": "System calls",
-    "b": "API",
-    "c": "Library",
-    "d": "Assembly Instruction",
+  {
+    "question": "What is the imprest system?",
+    "a": "A system where unlimited cash is kept for petty expenses",
+    "b": "A system where a fixed amount of cash is given to the petty cashier and reimbursed when spent",
+    "c": "A system where expenses are paid only by cheque",
+    "answer": "b"
+  },
+  {
+    "question": "Why is the imprest system used?",
+    "a": "To maintain control and accountability over small expenditures",
+    "b": "To increase the total cash balance",
+    "c": "To eliminate the need for vouchers",
     "answer": "a"
-},
-{
-    "question" : "Which one of the following is not true?",
-    "a": "Kernel is the program that constitues the central core of the operating system",
-    "b": "Kernel is the first part of operating system to load into memory during booting",
-    "c": "Kernel is made of various modules which can not be loaded in running operating system",
-    "d": "Kernel remains in the memory during the entire computer session",
+  },
+  {
+    "question": "What is a petty cash book?",
+    "a": "A record of bank transactions",
+    "b": "A record of credit sales",
+    "c": "A book used to record small cash transactions",
     "answer": "c"
-},
-{
-    "question" : "Which one of the following error will be handle by the operating system?",
-    "a": "Power failure",
-    "b": "Lack of paper in printer",
-    "c": "Connection failure in the network",
-    "d": "All of the mentioned",
-    "answer": "d"
-},
-{
-    "question" : "The main function of the command interpreter is:",
-    "a": "To get and execute the next user-specified command",
-    "b": "To provide the interface between the API and application program",
-    "c": "To handle the files in operating system",
-    "d": "None of the mentioned",
-    "answer": "a"
-},
-{
-    "question" : "By operating system, the resource management can be done via:",
-    "a": "Time division multiplexing",
-    "b": "Space division multiplexing",
-    "c": "Both (a) and (b)",
-    "d": "None of the mentioned",
-    "answer": "c"
-},
-{
-    "question" : "If a process fails, most operating system write the error information to a:",
-    "a": "Log file",
-    "b": "Another running process",
-    "c": "New file",
-    "d": "None of the mentioned",
-    "answer": "a"
-},
-{
-    "question" : "Which facility dynamically adds probes to a running system, both in user processes and in the kernel?",
-    "a": "DTrace",
-    "b": "DLocate",
-    "c": "DMAP",
-    "d": "DAdd",
-    "answer": "a"
-},
-{
-    "question" : "Which one of the following is NOT a real time operating system?",
-    "a": "VxWorks",
-    "b": "Windows CE",
-    "c": "RTLinux",
-    "d": "Palm OS",
-    "answer": "d"
-},
-{
-    "question" : "__________ is built directly on the hardware.",
-    "a": "Computer environment",
-    "b": "Application software",
-    "c": "Database system",
-    "d": "Operating system",
-    "answer": "d"
-},
-{
-    "question" : "Termination of a process can be due to?",
-    "a": "Fatal error",
-    "b": "Killed by another process",
-    "c": "Normal exit",
-    "d": "All of the mentioned",
-    "answer": "d"
-},
-{
-    "question" : "The operating system creates __________ from the physical computer.",
-    "a": "Virtual space",
-    "b": "Virtual computers",
-    "c": "Virtual device",
-    "d": "None of the mentioned",
+  },
+  {
+    "question": "What are analysis columns in a petty cash book?",
+    "a": "Columns that show total receipts",
+    "b": "Columns categorizing expenses like postage, stationery, etc.",
+    "c": "Columns showing only cash inflows",
     "answer": "b"
-},
-{
-    "question" : "Which is the first program run on a computer when the computer boots up?",
-    "a": "Operating system",
-    "b": "Application software",
-    "c": "System software",
-    "d": "All of the mentioned",
+  },
+  {
+    "question": "How is a petty cash book balanced?",
+    "a": "By totaling the analysis columns and matching with the float spent",
+    "b": "By transferring balances to the bank account",
+    "c": "By comparing with the main cash book only",
     "answer": "a"
-},
-{
-    "question" : "Which is the layer of a computer system between the hardware and the user program?",
-    "a": "Operating environment",
-    "b": "Operating system",
-    "c": "System environment",
-    "d": "None of the mentioned",
-    "answer": "b"
-},
-{
-    "question" : "The primary purpose of an operating system is:",
-    "a": "To make the most efficient use of the computer hardware",
-    "b": "To allow people to use the computer",
-    "c": "To keep systems programmers employed",
-    "d": "To make computers easier to use",
+  },
+  {
+    "question": "What is a petty cash voucher?",
+    "a": "A document authorizing and recording a petty cash payment",
+    "b": "A receipt for credit purchases",
+    "c": "A bank deposit slip",
     "answer": "a"
-},
-{
-    "question" : "What should be the extension to execute files?",
-    "a": "exe",
-    "b": "bat",
-    "c": "com",
-    "d": "All of the mentioned",
-    "answer": "d"
-},
-{
-    "question" : "Which file keeps commands to execute automatically when OS is started?",
-    "a": "command.com",
-    "b": "any batch file",
-    "c": "autoexec.bat",
-    "d": "config.sys",
-    "answer": "c"
-},
-{
-    "question" : "Which is NOT the function of the Operating System?",
-    "a": "Memory management",
-    "b": "Disk management",
-    "c": "Application management",
-    "d": "Virus protection",
-    "answer": "d"
-},
-{
-    "question" : "The Operating System manages:",
-    "a": "Memory",
-    "b": "Processes",
-    "c": "Disk and I/O devices",
-    "d": "All of the mentioned",
-    "answer": "d"
-},
-{
-    "question" : "The chunks of a memory are known as:",
-    "a": "Sector",
-    "b": "Offset",
-    "c": "Page",
-    "d": "Frame",
-    "answer": "d"
-},
-{
-    "question" : "Command Interpreter is also known as:",
-    "a": "Prompt",
-    "b": "Shell",
-    "c": "Command",
-    "d": "DOS Prompt",
+  },
+  {
+    "question": "What should a petty cash voucher include?",
+    "a": "Only the amount and purpose",
+    "b": "Date, amount, purpose, recipient, and signatures",
+    "c": "Bank name and cheque number",
     "answer": "b"
-},
-{
-    "question" : "Which of the follow are System Programming Language?",
-    "a": "C",
-    "b": "PL/360",
-    "c": "Pascal",
-    "d": "All of mentioned",
-    "answer": "d"
-},
-{
-    "question" : "Which of the following resources must be protected by the Operating System?",
-    "a": "I/O",
-    "b": "Memory",
-    "c": "CPU",
-    "d": "All of mentioned",
-    "answer": "d"
-},
-{
-    "question" : "First-in-First-Out (FIFO) scheduling is:",
-    "a": "Non-preemptive scheduling",
-    "b": "Preemptive scheduling",
-    "c": "Fair share scheduling",
-    "d": "Deadline scheduling",
+  },
+  {
+    "question": "How is the petty cash book posted to the general ledger?",
+    "a": "By transferring totals from analysis columns to respective expense accounts",
+    "b": "By recording each petty cash transaction individually",
+    "c": "By ignoring small expenses in the ledger",
     "answer": "a"
-},
-{
-    "question" : "Which of the following memory unit that processor can access more rapidly?",
-    "a": "Main memory",
-    "b": "Virtual memory",
-    "c": "Cache memory",
-    "d": "Read Only memory",
-    "answer": "c"
-},
-{
-    "question" : "Which one of the following is NOT the function of Operating System?",
-    "a": "Resource management",
-    "b": "File management",
-    "c": "Networking",
-    "d": "Processor management",
-    "answer": "c"
-},
-{
-    "question" : "Paging is implemented in?",
-    "a": "Operating system",
-    "b": "Hardware",
-    "c": "Software",
-    "d": "All of the mentioned",
+  },
+  {
+    "question": "What is the role of the petty cashier?",
+    "a": "To approve company cheques",
+    "b": "To manage and record petty cash transactions",
+    "c": "To prepare bank reconciliations",
     "answer": "b"
-},
-{
-    "question" : "A process is __________ ",
-    "a": "Program in main memory",
-    "b": "Program in cache memory",
-    "c": "Program in secondary storage",
-    "d": "Program in execution",
-    "answer": "d"
-},
-{
-    "question" : "If the displayed system time and date is wrong, use can reset it using:",
-    "a": "Write",
-    "b": "Calender",
-    "c": "Write file",
-    "d": "Control panel",
-    "answer": "d"
-},
-{
-    "question" : "Which is NOT an application software?",
-    "a": "Windows NT",
-    "b": "Page Maker",
-    "c": "WinWord XP",
-    "d": "Photoshop",
+  },
+  {
+    "question": "What is the significance of the imprest amount?",
+    "a": "It is the fixed cash allocated for petty expenses",
+    "b": "It shows the company’s profit",
+    "c": "It is the balance in the main cash book",
     "answer": "a"
-},
-{
-    "question" : "What program runs first afer computer is booted and loaded GUI?",
-    "a": "Desktop Manager",
-    "b": "File Manager",
-    "c": "Windows Explorer",
-    "d": "Authentication",
-    "answer": "d"
-},
-{
-    "question" : "Linux is a(n) __________ operating system.",
-    "a": "Open source",
-    "b": "Microsoft",
-    "c": "Windows",
-    "d": "Mac",
+  },
+  {
+    "question": "How often is the petty cash float replenished?",
+    "a": "At the end of each period or when low",
+    "b": "Every year only",
+    "c": "Whenever the cashier requests without review",
     "answer": "a"
-},
-{
-    "question" : "Which mode loads minimal set of drivers when starting Windows?",
-    "a": "Safe Mode",
-    "b": "Normal Mode",
-    "c": "VGA Mode",
-    "d": "Network Support Mode",
+  },
+  {
+    "question": "What happens if the petty cash book is overdrawn?",
+    "a": "The balance is transferred to the main cash book",
+    "b": "The petty cashier must explain and correct the difference",
+    "c": "The imprest amount is automatically increased",
+    "answer": "b"
+  },
+  {
+    "question": "What is the purpose of analyzing petty cash expenditures?",
+    "a": "To categorize expenses for reporting and budgeting",
+    "b": "To eliminate the need for vouchers",
+    "c": "To avoid balancing the petty cash book",
     "answer": "a"
-},
-{
-    "question" : "MacOS is based on the __________ operating system",
-    "a": "Windows",
-    "b": "Linux",
-    "c": "Unix",
-    "d": "CMOS",
-    "answer": "c"
-},
-{
-    "question" : "The Basic Input Output System (BIOS) resides in:",
-    "a": "RAM",
-    "b": "ROM",
-    "c": "CPU",
-    "d": "Memory cache",
+  },
+  {
+    "question": "How are petty cash transactions recorded?",
+    "a": "By entering details in the main ledger",
+    "b": "By entering date, details, amount, and analysis column",
+    "c": "By writing only the total each month",
     "answer": "b"
-},
-{
-    "question" : "Recently deleted files are stored in:",
-    "a": "Desktop",
-    "b": "Taskbar",
-    "c": "Recycle bin",
-    "d": "My computer",
-    "answer": "c"
-},
-{
-    "question" : "All of the following are TRUE regarding Virtual Memory EXCEPT:",
-    "a": "Any amount of RAM can be allocated to virtual memory",
-    "b": "The setting for the amount of hard disk drive space to allocate virtual memory can be manually changed",
-    "c": "This temporary storage is called the swap file or page file",
-    "d": "Virtual memory is the physical space on the hard drive",
+  },
+  {
+    "question": "What is the difference between petty cash and the main cash book?",
+    "a": "Petty cash records small expenses, main cash book records larger transactions",
+    "b": "Petty cash records only credit expenses",
+    "c": "Main cash book is for future budgets only",
     "answer": "a"
-},
-{
-    "question" : "Which of the following is suitable after user installs new drivers?",
-    "a": "Shutdown",
-    "b": "Restart",
-    "c": "Sleep",
-    "d": "Hibernate",
-    "answer": "b"
-},
-{
-    "question" : "Which of the following requires a device driver?",
-    "a": "Register",
-    "b": "Cache",
-    "c": "Main memory",
-    "d": "Disk",
-    "answer": "d"
-},
-{
-    "question" : "Which of the following scheduling algorithms is non-preemptive?",
-    "a": "Round robin",
-    "b": "FIFO",
-    "c": "Multilevel queue scheduling",
-    "d": "Multilevel queue scheduling with feedback",
-    "answer": "b"
-},
-{
-    "question" : "In operating system, a software may triggers an interrupt executing a special operation it is called as?",
-    "a": "System call",
-    "b": "Application call",
-    "c": "Software call",
-    "d": "Kernel call",
+  },
+  {
+    "question": "What is the role of the authorizing officer?",
+    "a": "To approve petty cash vouchers and ensure legitimacy",
+    "b": "To sign company cheques",
+    "c": "To replenish the imprest amount without checks",
     "answer": "a"
-},
-{
-    "question" : "Quad core processors are the processors having:",
-    "a": "1 processor",
-    "b": "2 processors",
-    "c": "3 processors",
-    "d": "4 processors",
-    "answer": "d"
-},
-{
-    "question" : "DMA is the part of computer system which is the abbreviation of?",
-    "a": "Dynamic memory address",
-    "b": "Direct memory access",
-    "c": "Dynamic memory access",
-    "d": "Direct memory address",
-    "answer": "b"
-},
-{
-    "question" : "One that is NOT an operating system mode is:",
-    "a": "User mode",
-    "b": "Kernel mode",
-    "c": "Supervisor mode",
-    "d": "System mode",
-    "answer": "d"
-},
-{
-    "question" : "One word memory storage is the collection of?",
-    "a": "2 bytes",
-    "b": "4 bytes",
-    "c": "7 bytes",
-    "d": "8 bytes",
-    "answer": "b"
-},
-{
-    "question" : "Secondary memory of the computer system is also called:",
-    "a": "Non-volatile",
-    "b": "Volatile",
-    "c": "Reserved",
-    "d": "Small",
+  },
+  {
+    "question": "What are advantages of using the imprest system?",
+    "a": "Control, accountability, and simpler records",
+    "b": "No need for vouchers",
+    "c": "Eliminates reconciliation completely",
     "answer": "a"
-},
-{
-    "question" : "Main memory of the computer system is also called?",
-    "a": "Non-volatile",
-    "b": "Volatile",
-    "c": "Reserved",
-    "d": "Large",
-    "answer": "b"
-},
-{
-    "question" : "Example of an open source operating system is:",
-    "a": "Unix",
-    "b": "Linux",
-    "c": "Windows",
-    "d": "Both (a) and (b)",
-    "answer": "d"
-},
-{
-    "question" : "Scheduling of threads are done by?",
-    "a": "Input",
-    "b": "Output",
-    "c": "Operating System",
-    "d": "Memory",
-    "answer": "c"
-},
-{
-    "question" : "Dual mode of Operating System has:",
-    "a": "1 mode",
-    "b": "2 modes",
-    "c": "3 modes ",
-    "d": "4 modes ",
-    "answer": "b"
-}
+  },
+  {
+    "question": "What are disadvantages of the imprest system?",
+    "a": "Requires monitoring and may not suit all organizations",
+    "b": "Too costly to maintain",
+    "c": "Prevents petty cash usage altogether",
+    "answer": "a"
+  },
+  {
+    "question": "How is the petty cash book reconciled?",
+    "a": "By comparing petty cash balance + vouchers with imprest amount",
+    "b": "By totaling receipts only",
+    "c": "By checking with bank statements",
+    "answer": "a"
+  },
+  {
+    "question": "What is the impact of the imprest system on financial reporting?",
+    "a": "Ensures accurate small expense recording",
+    "b": "Eliminates the need for expense reporting",
+    "c": "Increases company profits",
+    "answer": "a"
+  },
+  {
+    "question": "What is the role of the petty cash book in internal control?",
+    "a": "Helps reduce fraud and monitor small cash spending",
+    "b": "Records only credit purchases",
+    "c": "Replaces the general ledger",
+    "answer": "a"
+  },
+  {
+    "question": "How does the imprest system enhance accountability?",
+    "a": "By requiring documentation and authorization",
+    "b": "By reducing the number of vouchers",
+    "c": "By keeping unlimited petty cash",
+    "answer": "a"
+  },
+  {
+    "question": "What is the relationship between petty cash book and general ledger?",
+    "a": "Petty cash book provides detailed records summarized in the ledger",
+    "b": "General ledger replaces petty cash book",
+    "c": "Petty cash book records only bank transactions",
+    "answer": "a"
+  },
+  {
+    "question": "What are common errors in petty cash management?",
+    "a": "Poor records, delayed replenishment, unauthorized spending",
+    "b": "Overestimating future budgets",
+    "c": "Recording only revenues",
+    "answer": "a"
+  },
+  {
+    "question": "How can organizations improve petty cash management?",
+    "a": "By setting policies, reconciling regularly, and training staff",
+    "b": "By eliminating vouchers",
+    "c": "By increasing the imprest amount only",
+    "answer": "a"
+  }
 ]
