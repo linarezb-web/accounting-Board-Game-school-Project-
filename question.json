@@ -1,177 +1,261 @@
 [
   {
     "question": "What is the imprest system?",
-    "a": "A system where unlimited cash is kept for petty expenses",
-    "b": "A system where a fixed amount of cash is given to the petty cashier and reimbursed when spent",
-    "c": "A system where expenses are paid only by cheque",
+    "a": "A system where all cash is spent at once",
+    "b": "A system where a fixed amount of cash is given and replenished when spent",
+    "c": "A system where only credit is used",
     "answer": "b"
   },
   {
     "question": "Why is the imprest system used?",
-    "a": "To maintain control and accountability over small expenditures",
-    "b": "To increase the total cash balance",
-    "c": "To eliminate the need for vouchers",
-    "answer": "a"
+    "a": "To eliminate large transactions",
+    "b": "To maintain control and accountability over small expenditures",
+    "c": "To replace the general ledger",
+    "answer": "b"
   },
   {
     "question": "What is a petty cash book?",
-    "a": "A record of bank transactions",
-    "b": "A record of credit sales",
-    "c": "A book used to record small cash transactions",
-    "answer": "c"
+    "a": "A personal notebook for savings",
+    "b": "A book used to record small cash transactions",
+    "c": "The company’s main cash book",
+    "answer": "b"
   },
   {
     "question": "What are analysis columns in a petty cash book?",
-    "a": "Columns that show total receipts",
-    "b": "Columns categorizing expenses like postage, stationery, etc.",
-    "c": "Columns showing only cash inflows",
+    "a": "Columns for income only",
+    "b": "Columns for categorizing expenses like postage and stationery",
+    "c": "Columns for assets and liabilities",
     "answer": "b"
   },
   {
     "question": "How is a petty cash book balanced?",
-    "a": "By totaling the analysis columns and matching with the float spent",
-    "b": "By transferring balances to the bank account",
-    "c": "By comparing with the main cash book only",
+    "a": "By totaling expenditure columns and matching with petty cash spent",
+    "b": "By adding income and expenses",
+    "c": "By adjusting with the general ledger",
     "answer": "a"
   },
   {
     "question": "What is a petty cash voucher?",
-    "a": "A document authorizing and recording a petty cash payment",
-    "b": "A receipt for credit purchases",
-    "c": "A bank deposit slip",
-    "answer": "a"
+    "a": "A receipt for goods sold",
+    "b": "A document to authorize and record petty cash payments",
+    "c": "An invoice from a supplier",
+    "answer": "b"
   },
   {
     "question": "What should a petty cash voucher include?",
-    "a": "Only the amount and purpose",
-    "b": "Date, amount, purpose, recipient, and signatures",
-    "c": "Bank name and cheque number",
-    "answer": "b"
+    "a": "Date, amount, purpose, recipient, and signatures",
+    "b": "Only the amount spent",
+    "c": "Only the recipient name",
+    "answer": "a"
   },
   {
     "question": "How is the petty cash book posted to the general ledger?",
-    "a": "By transferring totals from analysis columns to respective expense accounts",
-    "b": "By recording each petty cash transaction individually",
-    "c": "By ignoring small expenses in the ledger",
-    "answer": "a"
+    "a": "By ignoring petty transactions",
+    "b": "By transferring totals from analysis columns to expense accounts",
+    "c": "By entering each petty cash transaction separately",
+    "answer": "b"
   },
   {
     "question": "What is the role of the petty cashier?",
-    "a": "To approve company cheques",
-    "b": "To manage and record petty cash transactions",
-    "c": "To prepare bank reconciliations",
-    "answer": "b"
+    "a": "To manage and record small cash payments",
+    "b": "To approve all company expenses",
+    "c": "To audit the company’s financial statements",
+    "answer": "a"
   },
   {
     "question": "What is the significance of the imprest amount?",
-    "a": "It is the fixed cash allocated for petty expenses",
-    "b": "It shows the company’s profit",
-    "c": "It is the balance in the main cash book",
-    "answer": "a"
+    "a": "It is the maximum daily income",
+    "b": "It is the fixed cash allocated to the petty cashier",
+    "c": "It is the company’s profit margin",
+    "answer": "b"
   },
   {
     "question": "How often is the petty cash float replenished?",
-    "a": "At the end of each period or when low",
-    "b": "Every year only",
-    "c": "Whenever the cashier requests without review",
-    "answer": "a"
+    "a": "Only once a year",
+    "b": "At the end of each period or when the balance is low",
+    "c": "Never",
+    "answer": "b"
   },
   {
     "question": "What happens if the petty cash book is overdrawn?",
-    "a": "The balance is transferred to the main cash book",
-    "b": "The petty cashier must explain and correct the difference",
-    "c": "The imprest amount is automatically increased",
-    "answer": "b"
-  },
-  {
-    "question": "What is the purpose of analyzing petty cash expenditures?",
-    "a": "To categorize expenses for reporting and budgeting",
-    "b": "To eliminate the need for vouchers",
-    "c": "To avoid balancing the petty cash book",
+    "a": "The petty cashier must explain and fix the issue",
+    "b": "The float increases automatically",
+    "c": "Nothing changes",
     "answer": "a"
   },
   {
-    "question": "How are petty cash transactions recorded?",
-    "a": "By entering details in the main ledger",
-    "b": "By entering date, details, amount, and analysis column",
-    "c": "By writing only the total each month",
+    "question": "What is the purpose of analyzing petty cash expenditures?",
+    "a": "To reduce the imprest amount",
+    "b": "To categorize expenses for reporting and budgeting",
+    "c": "To increase petty cash float",
     "answer": "b"
   },
   {
+    "question": "How are petty cash transactions recorded?",
+    "a": "By noting date, details, amount, and category",
+    "b": "By using only vouchers",
+    "c": "By entering only totals",
+    "answer": "a"
+  },
+  {
     "question": "What is the difference between petty cash and the main cash book?",
-    "a": "Petty cash records small expenses, main cash book records larger transactions",
-    "b": "Petty cash records only credit expenses",
-    "c": "Main cash book is for future budgets only",
+    "a": "Petty cash records small expenses, the main cash book records larger transactions",
+    "b": "Petty cash records income only",
+    "c": "There is no difference",
     "answer": "a"
   },
   {
     "question": "What is the role of the authorizing officer?",
     "a": "To approve petty cash vouchers and ensure legitimacy",
-    "b": "To sign company cheques",
-    "c": "To replenish the imprest amount without checks",
+    "b": "To spend petty cash freely",
+    "c": "To manage the imprest float",
     "answer": "a"
   },
   {
-    "question": "What are advantages of using the imprest system?",
-    "a": "Control, accountability, and simpler records",
-    "b": "No need for vouchers",
-    "c": "Eliminates reconciliation completely",
+    "question": "What is an advantage of the imprest system?",
+    "a": "Controls small expenditures and ensures accountability",
+    "b": "Eliminates need for reconciliation",
+    "c": "Replaces general ledger",
     "answer": "a"
   },
   {
-    "question": "What are disadvantages of the imprest system?",
-    "a": "Requires monitoring and may not suit all organizations",
-    "b": "Too costly to maintain",
-    "c": "Prevents petty cash usage altogether",
+    "question": "What is a disadvantage of the imprest system?",
+    "a": "Requires monitoring and reconciliation",
+    "b": "Allows unlimited spending",
+    "c": "Does not record small expenses",
     "answer": "a"
   },
   {
     "question": "How is the petty cash book reconciled?",
-    "a": "By comparing petty cash balance + vouchers with imprest amount",
-    "b": "By totaling receipts only",
-    "c": "By checking with bank statements",
+    "a": "By comparing balance, analysis totals, and imprest amount",
+    "b": "By checking with bank statements only",
+    "c": "By adding more float",
     "answer": "a"
   },
   {
     "question": "What is the impact of the imprest system on financial reporting?",
-    "a": "Ensures accurate small expense recording",
-    "b": "Eliminates the need for expense reporting",
-    "c": "Increases company profits",
+    "a": "It ensures accurate recording of small expenses",
+    "b": "It hides small transactions",
+    "c": "It increases errors",
     "answer": "a"
   },
   {
     "question": "What is the role of the petty cash book in internal control?",
-    "a": "Helps reduce fraud and monitor small cash spending",
-    "b": "Records only credit purchases",
-    "c": "Replaces the general ledger",
+    "a": "It monitors small expenses and reduces fraud risk",
+    "b": "It replaces audits",
+    "c": "It records investments",
     "answer": "a"
   },
   {
     "question": "How does the imprest system enhance accountability?",
-    "a": "By requiring documentation and authorization",
-    "b": "By reducing the number of vouchers",
-    "c": "By keeping unlimited petty cash",
+    "a": "By requiring documentation and authorization for all petty cash",
+    "b": "By eliminating vouchers",
+    "c": "By removing analysis columns",
     "answer": "a"
   },
   {
-    "question": "What is the relationship between petty cash book and general ledger?",
-    "a": "Petty cash book provides detailed records summarized in the ledger",
-    "b": "General ledger replaces petty cash book",
-    "c": "Petty cash book records only bank transactions",
+    "question": "What is the relationship between petty cash and the general ledger?",
+    "a": "Petty cash provides details, the general ledger summarizes them",
+    "b": "They are the same record",
+    "c": "Petty cash is ignored in the ledger",
     "answer": "a"
   },
   {
-    "question": "What are common errors in petty cash management?",
-    "a": "Poor records, delayed replenishment, unauthorized spending",
-    "b": "Overestimating future budgets",
-    "c": "Recording only revenues",
+    "question": "What is a common error in managing petty cash?",
+    "a": "Failing to keep records or replenish float",
+    "b": "Recording all vouchers",
+    "c": "Balancing daily",
     "answer": "a"
   },
   {
     "question": "How can organizations improve petty cash management?",
-    "a": "By setting policies, reconciling regularly, and training staff",
-    "b": "By eliminating vouchers",
-    "c": "By increasing the imprest amount only",
+    "a": "By enforcing policies, reconciliations, and staff training",
+    "b": "By ignoring petty expenses",
+    "c": "By removing vouchers",
+    "answer": "a"
+  },
+  {
+    "question": "Who decides the imprest amount?",
+    "a": "The petty cashier",
+    "b": "Management or finance department",
+    "c": "Suppliers",
+    "answer": "b"
+  },
+  {
+    "question": "What expenses are usually paid from petty cash?",
+    "a": "Minor expenses like postage and stationery",
+    "b": "Large purchases",
+    "c": "Investments",
+    "answer": "a"
+  },
+  {
+    "question": "Why should petty cash vouchers be pre-numbered?",
+    "a": "To prevent fraud and ensure traceability",
+    "b": "To make them look neat",
+    "c": "To avoid signatures",
+    "answer": "a"
+  },
+  {
+    "question": "What are sundry expenses?",
+    "a": "Small irregular petty cash payments",
+    "b": "Large investments",
+    "c": "Company income",
+    "answer": "a"
+  },
+  {
+    "question": "How is petty cash shown in the balance sheet?",
+    "a": "As part of current assets",
+    "b": "As income",
+    "c": "As liabilities",
+    "answer": "a"
+  },
+  {
+    "question": "Why should petty cash be kept securely?",
+    "a": "To prevent theft and misuse",
+    "b": "To increase revenue",
+    "c": "To avoid documentation",
+    "answer": "a"
+  },
+  {
+    "question": "Can large expenses be paid from petty cash?",
+    "a": "Yes, always",
+    "b": "No, only small expenses are allowed",
+    "c": "Only if authorized by the petty cashier",
+    "answer": "b"
+  },
+  {
+    "question": "What is meant by petty cash float?",
+    "a": "The imprest amount set aside for small expenses",
+    "b": "The profit from petty cash",
+    "c": "The balance sheet total",
+    "answer": "a"
+  },
+  {
+    "question": "Who reviews the petty cash book regularly?",
+    "a": "Auditors or management",
+    "b": "Petty cashier only",
+    "c": "Suppliers",
+    "answer": "a"
+  },
+  {
+    "question": "What is a risk of not using the imprest system?",
+    "a": "Errors and lack of accountability",
+    "b": "Better transparency",
+    "c": "No need for vouchers",
+    "answer": "a"
+  },
+  {
+    "question": "How often should petty cash be audited?",
+    "a": "Periodically, often monthly",
+    "b": "Never",
+    "c": "Only once at year end",
+    "answer": "a"
+  },
+  {
+    "question": "Why is the imprest system suitable for schools and small offices?",
+    "a": "It controls small expenses efficiently",
+    "b": "It removes financial reporting",
+    "c": "It avoids authorization",
     "answer": "a"
   }
 ]
