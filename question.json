@@ -4,46 +4,49 @@
     "a": "A system where all cash is spent at once",
     "b": "A system where a fixed amount of cash is given and replenished when spent",
     "c": "A system where only credit is used",
+    "answer": "b"
   },
   {
     "question": "Why is the imprest system used?",
     "a": "To eliminate large transactions",
     "b": "To maintain control and accountability over small expenditures",
     "c": "To replace the general ledger",
+    "answer": "b"
   },
   {
     "question": "What is a petty cash book?",
     "a": "A personal notebook for savings",
     "b": "A book used to record small cash transactions",
     "c": "The company’s main cash book",
+    "answer": "b"
   },
   {
     "question": "What are analysis columns in a petty cash book?",
     "a": "Columns for income only",
     "b": "Columns for categorizing expenses like postage and stationery",
     "c": "Columns for assets and liabilities",
-    
+    "answer": "b"
   },
   {
     "question": "How is a petty cash book balanced?",
     "a": "By totaling expenditure columns and matching with petty cash spent",
     "b": "By adding income and expenses",
     "c": "By adjusting with the general ledger",
-    
+    "answer": "a"
   },
   {
     "question": "What is a petty cash voucher?",
     "a": "A receipt for goods sold",
     "b": "A document to authorize and record petty cash payments",
     "c": "An invoice from a supplier",
-    
+    "answer": "b"
   },
   {
     "question": "What should a petty cash voucher include?",
     "a": "Date, amount, purpose, recipient, and signatures",
     "b": "Only the amount spent",
     "c": "Only the recipient name",
-    
+    "answer": "a"
   },
   {
     "question": "How is the petty cash book posted to the general ledger?",
